@@ -1,12 +1,12 @@
 
 module mux_tb;
-  reg [1:0] in1, in2, in3, in4; // Corrected range direction
+  reg [1:0] in1, in2, in3, in4; 
   reg c1, c2;
-  wire [1:0] out; // Corrected range direction
+  wire [1:0] out; 
   mux test (
     .in1(in1), .in2(in2), .in3(in3), .in4(in4),
     .c1(c1), .c2(c2),
-    .out(out) // Added .out port connection
+    .out(out) 
   );
   
   initial begin
