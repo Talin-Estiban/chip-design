@@ -1,0 +1,3 @@
+This repository serves as a collection of Verilog designs and corresponding testbenches, showcasing various aspects of digital hardware development. The designs include examples of combinational and sequential logic, memories, and finite state machines. The repository is created as part of a self-development journey in the field of digital design and hardware description languages.
+
+The repository is organized into directories based on design categories. Each category contains Verilog design files (*.v) and their respective testbenches (*_tb.v). The goal is to provide clear and concise examples that can serve as both educational material and practical references.
